@@ -1,7 +1,5 @@
-
-
-IMPLEMETATION-OF-DESIGN-PATTERNS
-❯ REPLACE-ME
+# IMPLEMETATION-OF-DESIGN-PATTERNS
+  REPLACE-ME
 
 license last-commit repo-top-language repo-language-count
 
@@ -83,3 +81,4 @@ This project is protected under the SELECT-A-LICENSE License. For more details, 
 
 🙌 Acknowledgments
 List any resources, contributors, inspiration, etc. here.
+
