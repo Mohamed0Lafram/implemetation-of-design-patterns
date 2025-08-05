@@ -1,12 +1,29 @@
 # IMPLEMETATION-OF-DESIGN-PATTERNS
-  REPLACE-ME
+This repository demonstrates a custom implementation of the Principal-Agent pattern for AI agents, built entirely from scratch. The design focuses on three main agent types:
 
+Principal (Reflect Agent) – Oversees the process, provides reflection, and delegates tasks.
+
+Tool Agent – Specialized in executing tools and performing concrete actions.
+
+React Agent – Acts in real-time based on observations, reacting to inputs using reasoning and available tools.
+
+🔧 What's Inside?
+✅ Custom-built framework — No reliance on LangChain or LangGraph; all logic and orchestration are developed manually.
+
+🔄 Agent collaboration — Agents communicate and cooperate using message-passing and role-specific logic.
+
+🧩 Modular design — Easily extend or swap components (tools, reasoning logic, memory, etc.).
+
+🔍 Reflection loop — The Principal (Reflect agent) analyzes intermediate outputs and makes high-level decisions.
+
+⚙️ Tool use — Agents can dynamically choose and invoke tools (e.g., search, calculator, file access) as part of their reasoning.
 license last-commit repo-top-language repo-language-count
 
 
 
 
-Table of Contents
+
+# Table of Contents
 📍 Overview
 ❯ REPLACE-ME
 
@@ -81,4 +98,5 @@ This project is protected under the SELECT-A-LICENSE License. For more details, 
 
 🙌 Acknowledgments
 List any resources, contributors, inspiration, etc. here.
+
 
