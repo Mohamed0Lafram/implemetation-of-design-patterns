@@ -74,14 +74,8 @@ Clone the implemetation-of-design-patterns repository:
 Navigate to the project directory:
 ❯ cd implemetation-of-design-patterns
 
-Install the project dependencies:
-echo 'INSERT-INSTALL-COMMAND-HERE'
 
-🤖 Usage
-Run implemetation-of-design-patterns using the following command: echo 'INSERT-RUN-COMMAND-HERE'
 
-🧪 Testing
-Run the test suite using the following command: echo 'INSERT-TEST-COMMAND-HERE'
 
 📌 Project Roadmap
  Task 1: Implement feature one.
